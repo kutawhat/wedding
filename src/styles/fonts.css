@@ -1,0 +1,26 @@
+/* Le Murmure font - local woff2 file */
+@font-face {
+  font-family: "Le Murmure:Regular";
+  src: url("/fonts/le-murmure.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fallback alias */
+@font-face {
+  font-family: "Le Murmure";
+  src: url("/fonts/le-murmure.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Craftwork Sans - local woff2 file */
+@font-face {
+  font-family: "Craftwork Sans";
+  src: url("/fonts/CraftworkSans-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
