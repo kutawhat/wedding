@@ -1,0 +1,19 @@
+{
+  "name": "Пригласительное — Артём и Ксюша",
+  "short_name": "Пригласительное",
+  "description": "Красивое пригласительное на свадьбу",
+  "start_url": "/wedding/",
+  "scope": "/wedding/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#333b60",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%23333b60' width='192' height='192'/><text x='96' y='96' font-size='120' font-family='serif' fill='white' text-anchor='middle' dominant-baseline='central'>♥</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
