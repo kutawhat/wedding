@@ -35,10 +35,14 @@
         height: 100dvh;
         margin: 0;
         padding: 0;
-        background-color: transparent;
+        background-color: #c4b9b0;
+        overflow: hidden;
       }
       #root {
         height: 100%;
+        width: 100%;
+        padding-bottom: max(0px, env(safe-area-inset-bottom));
+        box-sizing: border-box;
       }
     </style>
   </head>
