@@ -44,7 +44,7 @@ function MaskGroup() {
 }
 function Frame1() {
   const cls = "-translate-x-1/2 [word-break:break-word] absolute content-stretch flex flex-col font-['Craftwork_Sans',sans-serif] font-medium items-start leading-[1.2] left-1/2 text-[#333b60] text-[20px] top-[291px] uppercase w-[358px]";
-  const inner = <><p className="relative shrink-0 w-full font-['Craftwork_Sans',sans-serif]">в это день мы скажем</p>
+  const inner = <><p className="relative shrink-0 w-full font-['Craftwork_Sans',sans-serif]">в этот день мы скажем</p>
       <p className="relative shrink-0 text-right w-full">друг другу «да»</p>
       <p className="relative shrink-0 w-full">и очень хотим,</p>
       <p className="relative shrink-0 text-right w-full">чтобы вы были рядом</p>
